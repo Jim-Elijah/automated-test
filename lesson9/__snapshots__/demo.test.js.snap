@@ -1,0 +1,10 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`测试 generateAnotherConfig 1`] = `
+{
+  "domain": "localhost",
+  "port": 8081,
+  "server": "http://locaohost",
+  "time": Any<Date>,
+}
+`;
